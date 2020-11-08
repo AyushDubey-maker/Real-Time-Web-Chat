@@ -1,0 +1,14 @@
+Completed Real Time Chat Application 
+
+Using HTML,CSS And nodeJs with the help of socket.io
+
+Refer The Code Base To learn about all the code
+
+Also moment package is used which helps to get the time wrt Message.
+
+Learnt about Qs package.
+
+Also Learnt about an Important topic in json 
+
+ie."start":"node server",
+   "dev":"nodemon server"
