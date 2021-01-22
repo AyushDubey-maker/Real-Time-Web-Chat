@@ -12,4 +12,4 @@ This application is built using Node.Js and Socket.io.Through this application o
 
 ## Click on the image to get to know thw working of this application
 
-[![ChatCord](/chatcord.png)](https://www.youtube.com/watch?v=LfGhzXWQCB8)
+[![ChatCord](/chatcord1.png)](https://www.youtube.com/watch?v=LfGhzXWQCB8)
