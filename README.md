@@ -13,6 +13,6 @@ This application is built using Node.Js and Socket.io.Through this application o
 > ## Click on the image to get to know the working of this application
 
 [![ChatCord](/chatcord1.png)](https://www.youtube.com/watch?v=LfGhzXWQCB8)
-
+<hr/>
 <img src="/chatcord2.png">
 
